@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sticky Notes</title>
+    <style>
+        p{
+            background-color: black;
+            color:white;
+            padding:10px;
+            position: relative;
+            z-index: 1;
+        }
+        #container{
+            background-color: antiquewhite;
+            padding: 0px 5px;
+            width:auto;
+            height:auto;
+        }
+
+        .notes{
+            width:200px;
+            height:200px;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            background-color: #feff9c;
+            margin-bottom: 10px;
+            box-shadow: 2px 2px 2px  black;
+            padding:10px;
+        }
+
+        .a{
+            rotate: 10deg;
+            position: relative;
+            bottom:20px;;
+        }
+        .b{
+            rotate: -5deg;
+            position:relative;
+            left:230px;
+            bottom:10px;
+        }
+        .c{
+            rotate: 7deg;
+            
+        }
+
+        button{
+            background-color: red;
+            color:white;
+            border: 0px;
+            border-radius: 15%;
+            position: fixed;
+            bottom:20px;
+            right:0px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <p>My Sticky Notes</p>
+        <div class="a notes">First note</div>
+        <div class="b notes">Second note</div>
+        <div class="c notes">Third note</div>
+        <button>Save</button>
+    </div>
+</body>
+</html>
