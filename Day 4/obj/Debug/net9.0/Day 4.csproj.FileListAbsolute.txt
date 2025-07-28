@@ -1,0 +1,5 @@
+E:\FCI\MCV\MCV-WebDev\Day 4\obj\Debug\net9.0\Day 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\MCV\MCV-WebDev\Day 4\obj\Debug\net9.0\Day 4.AssemblyInfoInputs.cache
+E:\FCI\MCV\MCV-WebDev\Day 4\obj\Debug\net9.0\Day 4.AssemblyInfo.cs
+E:\FCI\MCV\MCV-WebDev\Day 4\obj\Debug\net9.0\Day 4.csproj.CoreCompileInputs.cache
+E:\FCI\MCV\MCV-WebDev\Day 4\obj\Debug\net9.0\Day 4.sourcelink.json

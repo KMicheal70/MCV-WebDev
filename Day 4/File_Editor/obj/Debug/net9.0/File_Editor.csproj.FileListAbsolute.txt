@@ -1,0 +1,15 @@
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\bin\Debug\net9.0\File_Editor.exe
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\bin\Debug\net9.0\File_Editor.deps.json
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\bin\Debug\net9.0\File_Editor.runtimeconfig.json
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\bin\Debug\net9.0\File_Editor.dll
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\bin\Debug\net9.0\File_Editor.pdb
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.AssemblyInfoInputs.cache
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.AssemblyInfo.cs
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.csproj.CoreCompileInputs.cache
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.sourcelink.json
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.dll
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\refint\File_Editor.dll
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.pdb
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\File_Editor.genruntimeconfig.cache
+E:\FCI\MCV\MCV-WebDev\Day 4\File_Editor\obj\Debug\net9.0\ref\File_Editor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "File_Editor_oop/1.0.0": {
+        "runtime": {
+          "File_Editor_oop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "File_Editor_oop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
