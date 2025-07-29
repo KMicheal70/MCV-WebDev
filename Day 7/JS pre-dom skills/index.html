@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function swap(a , b){
+            [b, a] = [a , b];
+            console.log(a);
+            console.log(b);
+        }
+
+        function max_in_array(arr){
+            let max = -1;
+            for (let i = 0; i < arr.length; i++)
+            {
+                if (max < arr[i]){
+                    max = arr[i];
+                }
+            }
+            return max;
+        }
+
+        function v_count(str){
+            let vowels ="aeoui";
+            let count = 0;
+            for (let char of str){
+                if (vowels.includes(char)){
+                    count++;
+                }
+            }
+            return count;
+        }
+
+        function isPrime(num){
+            let x = Math.sqrt(num);
+            let y = false;
+            for (let i = 2; i <= x; i++){
+                if (num % i == 0){
+                    y= true;
+                }
+            }
+            return y;
+        }
+
+        function sumEven(arr){
+            let sum = 0;
+            for (let i = 0; i < arr.length; i++){
+                if (arr[i] % 2 == 0){
+                    sum += arr[i];
+                }
+            }
+            return sum;
+        }
+
+        function removeDup(arr){
+            let unique =[];
+            for (i of arr){
+                if (unique.includes(i)){
+                    continue;
+                }
+                else{
+                    unique.push(i);
+                }
+            }
+            return unique;
+        }
+
+        function FizzBuzz(){
+            for (let i = 1; i < 31; i++){
+                if (i % 3 == 0 && i % 5  == 0){
+                    console.log("FizzBuzz\n");
+                }
+                else if (i % 3 == 0){
+                    console.log("Fizz\n");
+                }
+                else if (i % 5 == 0){
+                    console.log("Buzz \n");
+                }
+                else{
+                    console.log(`${i}`,'\n');
+                }
+            }
+        }
+
+        function Factorial(n){
+            if (n <= 1){
+                return 1;
+            }
+            else{
+                return Factorial(n - 1) * n;
+            }
+        }
+
+        function loopObj(obj){
+            for (let atribute in obj){
+                console.log(atribute, " : ", obj[atribute]);
+            }
+        }
+    </script>
+</body>
+</html>

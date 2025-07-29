@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Magic Fortune Button</h1>
+    <button onclick="WriteFortune('text')">Get Your Fortune</button>
+    <h3 id="text"></h3>
+    <script>
+        const Fortunes =  ["You will have a pleasant surprise.",
+  "Now is the time to try something new.",
+  "Adventure can be real happiness.",
+  "You will meet someone special soon.",
+  "A fresh start will put you on your way.",
+  "Hard work pays off in the future.",
+  "Trust your intuition—it knows the way.",
+  "Happiness begins with facing life with a smile.",
+  "A thrilling time is in your immediate future.",
+  "You will achieve your goals if you stay focused."];
+        function WriteFortune(id){
+            let Fortune = Fortunes[Math.floor(Math.random() * Fortunes.length)];
+            document.getElementById(id).innerHTML = Fortune;
+        }
+    </script>
+</body>
+</html>

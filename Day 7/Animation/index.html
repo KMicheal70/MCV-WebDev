@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation onclick</title>
+    <style>
+        body{
+            background-color: black;
+            display:flex;
+            justify-content: center;
+            height: 120vh;
+            align-items: flex-end;
+        }
+        .container{
+            width:400px;
+            height: 400px;
+            background-color: rgb(172, 172, 241);
+            border-radius: 50%;
+            display:flex;
+            flex-direction: column;
+        }
+        img{
+            transform: scale(0.25);
+            position:relative;
+        }
+        button{
+            color:white;
+            background-color: black;
+            border:2px solid white; 
+            border-radius: 10px;
+            height:60px;
+            font-weight: 600;
+        }
+        @keyframes LaunchRocket{
+            from {
+                bottom:0px;
+            }
+            to{
+                bottom:1000px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img id="rock" src="./lander.png">
+        <button onclick="launch('rock')">Launch</button>
+    </div>
+    <script>
+        function launch(id){
+        const rocket = document.getElementById(id);
+        rocket.style.animation = "none";
+        rocket.offsetHeight; 
+        rocket.style.animation = "LaunchRocket 5s forwards";  
+        }
+    </script>
+</body>
+</html>
