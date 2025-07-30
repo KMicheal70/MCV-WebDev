@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Store Procedure", "Store Procedure.sqlproj", "{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B186DF-B7F6-4591-80CC-66A4ECF640FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46188BD3-6983-4C16-803F-6A7AE7B6E802}
+	EndGlobalSection
+EndGlobal
