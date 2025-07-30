@@ -1,0 +1,15 @@
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+E:\FCI\MCV\MCV-WebDev\Day 6\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
