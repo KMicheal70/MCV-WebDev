@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("File_Editor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b822e1007c4040a5c7b668e091cb39a254da10c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+247e19e7f16cf6e3e63f7acb41426c6826e04e51")]
 [assembly: System.Reflection.AssemblyProductAttribute("File_Editor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("File_Editor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
